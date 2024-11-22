@@ -23,3 +23,19 @@ Todos están invitados, pero se le podrá sacar mayor provecho a quienes:
 ### Tiempo estimado: dos horas por charla.
 
 ---
+
+### Viernes 22 Noviembre, 2024: Charla informativa
+
+#### Fechas de las charlas:
+- Pytorch (Viernes 29, 14:00)
+- HuggingFace (Viernes 29, 14:00)
+
+#### Para refrescar python y machine learning
+
+
+#### Infra
+Asegurémonos de que la infraestructura necesaria y las instalaciones requeridas corren sin problemas en las computadoras que traeremos para las charlas.
+- Logearte a https://colab.research.google.com
+- 
+
+
