@@ -27,18 +27,22 @@ Todos están invitados, pero se le podrá sacar mayor provecho a quienes:
 ### Viernes 22 Noviembre, 2024: Charla informativa
 
 #### Fechas de las charlas:
-- Pytorch (Viernes 29, 14:00)
-- HuggingFace (Viernes 29, 14:00)
 
-#### Para refrescar python y machine learning
+- Pytorch (viernes 29 de noviembre, 14:00)
+- HuggingFace (viernes 6 de diciembre, 14:00)
 
+#### Para refrescar python, machine learning y obtener un primer vistazo a los transformers.
+
+- Python: Puedes usar el notebook `python_tutorial.ipynb` que aparece en este repo.
+- Machine Learning: http://ciml.info/ (échale un vistazo al menos a los primeros 5 capítulos)
+- Transformers: http://jalammar.github.io/illustrated-transformer: manera didáctica de comprender su compleja estructura.
 
 #### Infra
+
 Asegurémonos de que la infraestructura necesaria y las instalaciones requeridas corren sin problemas en las computadoras que traeremos para las charlas.
+
 - Logearte a https://colab.research.google.com
 - En `Abrir Cuaderno` elige GitHub y escribe el siguiente url: https://github.com/rgmartin/balseiro-transformers
-- Selecciona el notebook que usaremos en la charla, por ahora usa `prueba.ipynb`
+- Selecciona el notebook que usaremos en la charla, por ahora usa `python_tutorial.ipynb`
 - En `Entorno de ejecucion` haz click en Cambiar tipo de entorno de ejecución y selecciona un GPU y Python3.
 - Corre las celdas del cuaderno con Ctrl+Enter para asegurarte de que todo funciona correctamente.
-
-
