@@ -36,6 +36,9 @@ Todos están invitados, pero se le podrá sacar mayor provecho a quienes:
 #### Infra
 Asegurémonos de que la infraestructura necesaria y las instalaciones requeridas corren sin problemas en las computadoras que traeremos para las charlas.
 - Logearte a https://colab.research.google.com
-- 
+- En `Abrir Cuaderno` elige GitHub y escribe el siguiente url: https://github.com/rgmartin/balseiro-transformers
+- Selecciona el notebook que usaremos en la charla, por ahora usa `prueba.ipynb`
+- En `Entorno de ejecucion` haz click en Cambiar tipo de entorno de ejecución y selecciona un GPU y Python3.
+- Corre las celdas del cuaderno con Ctrl+Enter para asegurarte de que todo funciona correctamente.
 
 
