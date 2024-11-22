@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a14b9118-28f6-4463-bc04-c61e86ebf1a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SP_24_CS224N_PyTorch_Tutorial.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SP_24_CS224N_PyTorch_Tutorial.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP24_Hugging_Face_Transformers_Tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SP_24_CS224N_PyTorch_Tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp24_hugging_face_transformers_tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sp_24_cs224n_pytorch_tutorial.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732283452412</updated>
-      <workItem from="1732283455174" duration="2819000" />
+      <workItem from="1732283455174" duration="3169000" />
     </task>
     <servers />
   </component>
