@@ -1,5 +1,11 @@
 # Talleres de Inteligencia Artificial
 
+# IMPORTANTE
+
+Debido a los problemas de Conexión en el Centro Atómico, trasladadamos la charla del viernes 29 de noviembre a la Sala de Reuniones del edificio Intecnus para las 14:30 horas. Vamos a estar en la puerta de intecnus de 14:00 a 14:30 dando entrada a los participantes.
+
+---
+
 ### Resumen
 
 El campo de la inteligencia artificial ha visto un crecimiento sin precedentes desde la introducción de la arquitectura de los Transformers con el paper fundacional “Attention is All You Need” en 2018. El impacto de este desarrollo fue tal que ni los autores originales predijeron el alcance que esta arquitectura tendría en multiples campos de la investigación y la industria. Aunque muchas fuentes cubren la teoría detrás de esta arquitectura, es muy difícil reemplazar el desarrollo de uno o dos ejemplos prácticos del uso de esta arquitectura y de las principales librerías que la implementan. Con estas charlas, pretendo darles las herramientas iniciales con las cuales pueden adaptar las librerías de PyTorch y Hugging Face a sus usos en la investigación y la industria, demostrando el poder y la flexibilidad de estas herramientas.
