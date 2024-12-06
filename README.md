@@ -1,8 +1,10 @@
 # Talleres de Inteligencia Artificial
 
-# IMPORTANTE
+Links de interes:
 
-Debido a los problemas de Conexión en el Centro Atómico, trasladadamos la charla del viernes 29 de noviembre a la Sala de Reuniones del edificio Intecnus para las 14:30 horas. Vamos a estar en la puerta de intecnus de 14:00 a 14:30 dando entrada a los participantes.
+- Curso de standford: https://web.stanford.edu/class/cs224n/
+- Libro de transformers con HuggingFace: https://www.oreilly.com/library/view/natural-language-processing/9781098136789/
+- Pytorch y machine learning book: https://sebastianraschka.com/blog/2022/ml-pytorch-book.html
 
 ---
 
